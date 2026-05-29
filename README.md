@@ -17,10 +17,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0042-trapping-rain-water) |
+| [0455-assign-cookies](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0042-trapping-rain-water) |
+| [0455-assign-cookies](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -33,4 +35,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
