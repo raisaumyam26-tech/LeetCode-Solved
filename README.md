@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0292-nim-game) |
+| [0371-sum-of-two-integers](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0371-sum-of-two-integers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Brainteaser
 |  |
@@ -45,4 +46,8 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0455-assign-cookies) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
