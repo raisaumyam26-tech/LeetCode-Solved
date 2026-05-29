@@ -1,15 +1,14 @@
 class Solution {
     public int minElement(int[] nums) {
-        int k=0;
-        for(int i : nums){
-            int sum=0;
-            while(i!=0){
-                sum+=i%10;
-                i=i/10;
+        int ans = Integer.MAX_VALUE;
+        for (int num : nums) {
+            int sum = 0;
+            while (num > 0) {
+                sum += num % 10;
+                num /= 10;
             }
-            nums[k++]=sum;
+            ans = Math.min(ans, sum);
         }
-        Arrays.sort(nums);
-        return nums[0];
+        return ans;
     }
 }
