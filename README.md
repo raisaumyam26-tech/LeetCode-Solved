@@ -23,6 +23,7 @@
 | [0066-plus-one](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0066-plus-one) |
 | [0455-assign-cookies](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0455-assign-cookies) |
 | [0500-keyboard-row](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0500-keyboard-row) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Two Pointers
 |  |
@@ -45,10 +46,12 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0455-assign-cookies) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Sorting
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0455-assign-cookies) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Bit Manipulation
 |  |
 | ------- |
