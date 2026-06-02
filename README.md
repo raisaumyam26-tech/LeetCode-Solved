@@ -69,6 +69,7 @@
 |  |
 | ------- |
 | [0500-keyboard-row](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0500-keyboard-row) |
+| [1678-goal-parser-interpretation](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1678-goal-parser-interpretation) |
 ## Binary Search
 |  |
 | ------- |
