@@ -7,6 +7,7 @@
 | [0066-plus-one](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0066-plus-one) |
 | [0292-nim-game](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0371-sum-of-two-integers) |
+| [0441-arranging-coins](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0441-arranging-coins) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Brainteaser
 |  |
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0004-median-of-two-sorted-arrays) |
+| [0441-arranging-coins](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0441-arranging-coins) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Matrix
