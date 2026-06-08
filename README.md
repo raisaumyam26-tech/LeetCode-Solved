@@ -24,6 +24,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0066-plus-one) |
+| [0219-contains-duplicate-ii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0238-product-of-array-except-self) |
 | [0455-assign-cookies](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0496-next-greater-element-i) |
@@ -76,6 +77,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0500-keyboard-row) |
 ## String
@@ -104,4 +106,8 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0190-reverse-bits](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0190-reverse-bits) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
