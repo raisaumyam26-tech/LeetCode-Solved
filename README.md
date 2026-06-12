@@ -24,6 +24,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0219-contains-duplicate-ii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0322-coin-change) |
@@ -81,6 +82,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0219-contains-duplicate-ii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0500-keyboard-row) |
@@ -100,6 +102,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0073-set-matrix-zeroes) |
 | [1672-richest-customer-wealth](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
 |  |
