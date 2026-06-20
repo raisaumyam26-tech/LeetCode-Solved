@@ -6,6 +6,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0441-arranging-coins) |
@@ -57,6 +58,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0322-coin-change) |
@@ -136,4 +138,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0322-coin-change) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
