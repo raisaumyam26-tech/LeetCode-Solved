@@ -31,6 +31,7 @@
 | [0073-set-matrix-zeroes](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0322-coin-change) |
@@ -90,6 +91,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0190-reverse-bits) |
 | [0371-sum-of-two-integers](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0371-sum-of-two-integers) |
 ## Hash Table
