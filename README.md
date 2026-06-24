@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0053-maximum-subarray) |
@@ -112,6 +113,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0035-search-insert-position) |
 | [0441-arranging-coins](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0441-arranging-coins) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
