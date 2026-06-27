@@ -116,6 +116,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0035-search-insert-position) |
+| [0374-guess-number-higher-or-lower](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0441-arranging-coins) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -148,4 +149,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0070-climbing-stairs) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
