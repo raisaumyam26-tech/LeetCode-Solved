@@ -23,6 +23,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0035-search-insert-position) |
@@ -101,6 +102,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0219-contains-duplicate-ii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
