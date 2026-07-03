@@ -7,6 +7,7 @@
 | [0048-rotate-image](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0089-gray-code) |
 | [0292-nim-game](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0441-arranging-coins) |
@@ -96,6 +97,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0191-number-of-1-bits) |
@@ -163,4 +165,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0014-longest-common-prefix) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
