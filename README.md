@@ -12,6 +12,7 @@
 | [0371-sum-of-two-integers](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0504-base-7) |
+| [0976-largest-perimeter-triangle](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0976-largest-perimeter-triangle) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Brainteaser
 |  |
@@ -46,6 +47,7 @@
 | [0496-next-greater-element-i](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0500-keyboard-row) |
 | [0896-monotonic-array](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0896-monotonic-array) |
+| [0976-largest-perimeter-triangle](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0976-largest-perimeter-triangle) |
 | [1480-running-sum-of-1d-array](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1732-find-the-highest-altitude) |
@@ -86,6 +88,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0455-assign-cookies) |
+| [0976-largest-perimeter-triangle](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0976-largest-perimeter-triangle) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -94,6 +97,7 @@
 | ------- |
 | [0414-third-maximum-number](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0455-assign-cookies) |
+| [0976-largest-perimeter-triangle](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0976-largest-perimeter-triangle) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
