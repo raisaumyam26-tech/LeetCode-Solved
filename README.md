@@ -52,6 +52,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1732-find-the-highest-altitude) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -122,6 +123,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0500-keyboard-row) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## String
 |  |
 | ------- |
@@ -182,4 +184,8 @@
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0089-gray-code) |
+## Counting
+|  |
+| ------- |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 <!---LeetCode Topics End-->
