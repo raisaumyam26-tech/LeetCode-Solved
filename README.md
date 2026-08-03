@@ -58,6 +58,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3776-minimum-moves-to-balance-circular-array](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/3776-minimum-moves-to-balance-circular-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3776-minimum-moves-to-balance-circular-array](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/3776-minimum-moves-to-balance-circular-array) |
 ## Sorting
 |  |
 | ------- |
@@ -106,6 +108,7 @@
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3776-minimum-moves-to-balance-circular-array](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/3776-minimum-moves-to-balance-circular-array) |
 ## Bit Manipulation
 |  |
 | ------- |
