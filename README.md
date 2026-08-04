@@ -59,6 +59,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3731-find-missing-elements](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/3731-find-missing-elements) |
 | [3776-minimum-moves-to-balance-circular-array](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/3776-minimum-moves-to-balance-circular-array) |
 ## Two Pointers
 |  |
@@ -109,6 +110,7 @@
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3731-find-missing-elements](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/3731-find-missing-elements) |
 | [3776-minimum-moves-to-balance-circular-array](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/3776-minimum-moves-to-balance-circular-array) |
 ## Bit Manipulation
 |  |
@@ -129,6 +131,7 @@
 | [0496-next-greater-element-i](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0500-keyboard-row) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [3731-find-missing-elements](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
