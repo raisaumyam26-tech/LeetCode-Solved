@@ -52,6 +52,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1732-find-the-highest-altitude) |
+| [1920-build-array-from-permutation](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1920-build-array-from-permutation) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/2332-the-latest-time-to-catch-a-bus) |
@@ -198,4 +199,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0387-first-unique-character-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
