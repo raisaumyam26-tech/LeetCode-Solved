@@ -123,6 +123,7 @@
 | [0001-two-sum](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0219-contains-duplicate-ii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0219-contains-duplicate-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0500-keyboard-row) |
@@ -131,6 +132,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0014-longest-common-prefix) |
+| [0387-first-unique-character-in-a-string](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0504-base-7) |
 | [1678-goal-parser-interpretation](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1678-goal-parser-interpretation) |
@@ -190,5 +192,10 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
