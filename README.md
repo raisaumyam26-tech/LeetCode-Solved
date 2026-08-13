@@ -47,6 +47,7 @@
 | [0455-assign-cookies](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0506-relative-ranks) |
 | [0724-find-pivot-index](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0724-find-pivot-index) |
 | [0896-monotonic-array](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0896-monotonic-array) |
 | [0976-largest-perimeter-triangle](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0976-largest-perimeter-triangle) |
@@ -109,6 +110,7 @@
 | ------- |
 | [0414-third-maximum-number](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0506-relative-ranks) |
 | [0976-largest-perimeter-triangle](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0977-squares-of-a-sorted-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -217,4 +219,8 @@
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1920-build-array-from-permutation) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
