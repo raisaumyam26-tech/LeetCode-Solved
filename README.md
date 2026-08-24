@@ -38,6 +38,7 @@
 | [0118-pascals-triangle](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0283-move-zeroes) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0042-trapping-rain-water) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0977-squares-of-a-sorted-array) |
@@ -161,6 +163,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0441-arranging-coins) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/2332-the-latest-time-to-catch-a-bus) |
