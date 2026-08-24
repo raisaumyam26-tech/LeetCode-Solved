@@ -8,6 +8,7 @@
 | [0066-plus-one](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0089-gray-code) |
+| [0189-rotate-array](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0441-arranging-coins) |
@@ -39,6 +40,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0283-move-zeroes) |
@@ -74,6 +76,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0455-assign-cookies) |
 | [0844-backspace-string-compare](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0844-backspace-string-compare) |
