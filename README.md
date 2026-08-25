@@ -51,6 +51,7 @@
 | [0496-next-greater-element-i](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0506-relative-ranks) |
+| [0643-maximum-average-subarray-i](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0724-find-pivot-index) |
 | [0896-monotonic-array](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0896-monotonic-array) |
 | [0976-largest-perimeter-triangle](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0976-largest-perimeter-triangle) |
@@ -199,6 +200,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0643-maximum-average-subarray-i) |
 ## Breadth-First Search
 |  |
 | ------- |
