@@ -62,6 +62,7 @@
 | [1436-destination-city](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1436-destination-city) |
 | [1480-running-sum-of-1d-array](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1512-number-of-good-pairs) |
+| [1652-defuse-the-bomb](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1920-build-array-from-permutation) |
@@ -205,6 +206,7 @@
 | [0219-contains-duplicate-ii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0643-maximum-average-subarray-i) |
+| [1652-defuse-the-bomb](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1652-defuse-the-bomb) |
 ## Breadth-First Search
 |  |
 | ------- |
