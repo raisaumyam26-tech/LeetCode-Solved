@@ -157,6 +157,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1207-unique-number-of-occurrences) |
 | [1436-destination-city](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1512-number-of-good-pairs) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3731-find-missing-elements](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/3731-find-missing-elements) |
 ## String
@@ -169,6 +170,7 @@
 | [0844-backspace-string-compare](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0844-backspace-string-compare) |
 | [1436-destination-city](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1436-destination-city) |
 | [1678-goal-parser-interpretation](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1678-goal-parser-interpretation) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Binary Search
 |  |
 | ------- |
@@ -207,6 +209,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1652-defuse-the-bomb) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -233,6 +236,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0594-longest-harmonious-subsequence) |
 | [1512-number-of-good-pairs](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1512-number-of-good-pairs) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Queue
 |  |
