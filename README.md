@@ -57,6 +57,7 @@
 | [0896-monotonic-array](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0896-monotonic-array) |
 | [0976-largest-perimeter-triangle](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1004-max-consecutive-ones-iii) |
 | [1122-relative-sort-array](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1207-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -186,6 +187,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0441-arranging-coins) |
+| [1004-max-consecutive-ones-iii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1004-max-consecutive-ones-iii) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -200,6 +202,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1732-find-the-highest-altitude) |
 ## Divide and Conquer
@@ -216,6 +219,7 @@
 | [0219-contains-duplicate-ii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1652-defuse-the-bomb](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
