@@ -152,6 +152,7 @@
 | [0001-two-sum](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0073-set-matrix-zeroes) |
+| [0205-isomorphic-strings](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -171,6 +172,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0504-base-7) |
