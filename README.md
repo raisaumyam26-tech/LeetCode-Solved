@@ -42,6 +42,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0322-coin-change) |
@@ -124,6 +125,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0506-relative-ranks) |
@@ -154,6 +156,7 @@
 | [0073-set-matrix-zeroes](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0496-next-greater-element-i) |
@@ -248,6 +251,7 @@
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0594-longest-harmonious-subsequence) |
 | [1512-number-of-good-pairs](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1512-number-of-good-pairs) |
@@ -278,4 +282,8 @@
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1122-relative-sort-array) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
