@@ -157,6 +157,7 @@
 | [0205-isomorphic-strings](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0496-next-greater-element-i) |
@@ -176,6 +177,7 @@
 | [0014-longest-common-prefix](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0205-isomorphic-strings) |
+| [0383-ransom-note](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0504-base-7) |
@@ -252,6 +254,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0594-longest-harmonious-subsequence) |
 | [1512-number-of-good-pairs](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1512-number-of-good-pairs) |
