@@ -52,6 +52,7 @@
 | [0496-next-greater-element-i](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0506-relative-ranks) |
+| [0575-distribute-candies](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0724-find-pivot-index) |
@@ -162,6 +163,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0594-longest-harmonious-subsequence) |
 | [1122-relative-sort-array](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1207-unique-number-of-occurrences) |
