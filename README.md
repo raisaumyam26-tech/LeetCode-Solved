@@ -73,6 +73,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/2332-the-latest-time-to-catch-a-bus) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -171,6 +172,7 @@
 | [1512-number-of-good-pairs](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3731-find-missing-elements](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -232,6 +234,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1652-defuse-the-bomb](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Breadth-First Search
 |  |
 | ------- |
