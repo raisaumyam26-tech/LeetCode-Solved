@@ -150,6 +150,7 @@
 | [0191-number-of-1-bits](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0371-sum-of-two-integers) |
+| [1763-longest-nice-substring](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1763-longest-nice-substring) |
 ## Hash Table
 |  |
 | ------- |
@@ -170,6 +171,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1207-unique-number-of-occurrences) |
 | [1436-destination-city](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1512-number-of-good-pairs) |
+| [1763-longest-nice-substring](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -189,6 +191,7 @@
 | [0844-backspace-string-compare](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0844-backspace-string-compare) |
 | [1436-destination-city](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1436-destination-city) |
 | [1678-goal-parser-interpretation](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1678-goal-parser-interpretation) |
+| [1763-longest-nice-substring](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Binary Search
 |  |
@@ -223,6 +226,7 @@
 | [0053-maximum-subarray](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0191-number-of-1-bits) |
+| [1763-longest-nice-substring](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1763-longest-nice-substring) |
 ## Sliding Window
 |  |
 | ------- |
@@ -233,6 +237,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1652-defuse-the-bomb](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1652-defuse-the-bomb) |
+| [1763-longest-nice-substring](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Breadth-First Search
