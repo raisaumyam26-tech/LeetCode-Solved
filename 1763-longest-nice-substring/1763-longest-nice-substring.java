@@ -1,17 +1,24 @@
 class Solution {
     public String longestNiceSubstring(String s) {
-        if(s.length()<2) return "";
-        for(int i=0; i<s.length(); i++){
-            char ch=s.charAt(i);
-            if(s.indexOf(Character.toLowerCase(ch))==-1 || s.indexOf(Character.toUpperCase(ch))==-1){
-               
-              String left= longestNiceSubstring(s.substring(0,i));
-              String right= longestNiceSubstring(s.substring(i+1));
-                return left.length() >= right.length() ? left: right;
+        String ans="";
+        for(int i=0; i<s.length()-1; i++){
+            for(int j=i+1; j<=s.length(); j++){
+                String sub=s.substring(i,j);
+                if(Nice(sub) && sub.length()>ans.length()){
+                    ans=sub;
+                }
             }
-
         }
-        return s;
-
+        return ans;
+    }
+    public boolean Nice(String t){
+        if(t.length()<2) return false;
+        for(int i=0; i<t.length(); i++){
+            char ch=t.charAt(i);
+            if(t.indexOf(Character.toLowerCase(ch))==-1 || t.indexOf(Character.toUpperCase(ch))==-1){
+                return false;
+            }
+        }
+        return true;
     }
 }
