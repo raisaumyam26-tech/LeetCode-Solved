@@ -146,6 +146,7 @@
 | ------- |
 | [0089-gray-code](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0338-counting-bits) |
@@ -157,6 +158,7 @@
 | [0001-two-sum](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0073-set-matrix-zeroes) |
+| [0187-repeated-dna-sequences](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0229-majority-element-ii) |
@@ -182,6 +184,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0151-reverse-words-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0387-first-unique-character-in-a-string) |
@@ -231,6 +234,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0643-maximum-average-subarray-i) |
@@ -299,4 +303,20 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0229-majority-element-ii) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
