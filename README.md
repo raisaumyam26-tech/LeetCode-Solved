@@ -45,6 +45,7 @@
 | [0229-majority-element-ii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0283-move-zeroes) |
+| [0289-game-of-life](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0289-game-of-life) |
 | [0322-coin-change](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0322-coin-change) |
 | [0414-third-maximum-number](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -213,6 +214,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0073-set-matrix-zeroes) |
+| [0289-game-of-life](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0289-game-of-life) |
 | [1672-richest-customer-wealth](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
 |  |
@@ -281,6 +283,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0289-game-of-life) |
 | [0844-backspace-string-compare](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1920-build-array-from-permutation) |
 ## Heap (Priority Queue)
