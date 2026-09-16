@@ -53,6 +53,7 @@
 | [0496-next-greater-element-i](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0643-maximum-average-subarray-i) |
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0561-array-partition) |
 | [0976-largest-perimeter-triangle](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0976-largest-perimeter-triangle) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -133,6 +135,7 @@
 | [0414-third-maximum-number](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0594-longest-harmonious-subsequence) |
 | [0976-largest-perimeter-triangle](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0977-squares-of-a-sorted-array) |
@@ -297,6 +300,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0561-array-partition) |
 | [1122-relative-sort-array](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1122-relative-sort-array) |
 ## Quicksort
 |  |
