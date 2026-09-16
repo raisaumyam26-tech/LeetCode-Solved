@@ -50,6 +50,7 @@
 | [0414-third-maximum-number](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0455-assign-cookies) |
+| [0495-teemo-attacking](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0506-relative-ranks) |
@@ -291,6 +292,7 @@
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0289-game-of-life) |
+| [0495-teemo-attacking](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0495-teemo-attacking) |
 | [0844-backspace-string-compare](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1920-build-array-from-permutation) |
 ## Heap (Priority Queue)
