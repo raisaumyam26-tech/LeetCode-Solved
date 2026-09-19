@@ -65,6 +65,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1122-relative-sort-array](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1207-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -215,6 +216,7 @@
 | [0441-arranging-coins](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0441-arranging-coins) |
 | [0713-subarray-product-less-than-k](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
