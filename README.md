@@ -39,6 +39,7 @@
 | [0118-pascals-triangle](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0219-contains-duplicate-ii) |
@@ -110,6 +111,7 @@
 | [0070-climbing-stairs](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0338-counting-bits) |
 ## Stack
