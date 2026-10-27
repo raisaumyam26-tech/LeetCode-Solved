@@ -1,9 +1,20 @@
 class Solution {
     public boolean isAcronym(List<String> words, String s) {
-        StringBuilder sb=new StringBuilder();
-        for(int i=0; i<words.size(); i++){
-            sb.append(words.get(i).charAt(0));
+    
+        if(words.size()!=s.length()){
+            return false;
         }
-       return sb.toString().equals(s);
+       return helper(words, s, 0);
+
     }
+    public boolean helper(List<String> words, String s, int a){
+        if(a==words.size()){
+            return true;
+        }
+        if(words.get(a).charAt(0) != s.charAt(a)){
+            return false;
+        }
+       return helper(words, s, a+1);
+    }
+    
 }
