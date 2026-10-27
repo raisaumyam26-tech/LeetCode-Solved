@@ -84,6 +84,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -212,6 +213,7 @@
 | [1678-goal-parser-interpretation](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1678-goal-parser-interpretation) |
 | [1763-longest-nice-substring](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Binary Search
 |  |
 | ------- |
