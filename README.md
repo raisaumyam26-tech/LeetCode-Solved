@@ -8,6 +8,7 @@
 | [0066-plus-one](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0089-gray-code) |
+| [0166-fraction-to-recurring-decimal](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0371-sum-of-two-integers) |
@@ -175,6 +176,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0141-linked-list-cycle) |
+| [0166-fraction-to-recurring-decimal](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0219-contains-duplicate-ii) |
@@ -201,6 +203,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0151-reverse-words-in-a-string) |
+| [0166-fraction-to-recurring-decimal](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0383-ransom-note) |
