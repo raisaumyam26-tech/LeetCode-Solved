@@ -355,6 +355,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -362,6 +363,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0509-fibonacci-number) |
 ## Geometry
 |  |
