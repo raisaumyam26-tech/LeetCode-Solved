@@ -128,6 +128,7 @@
 | [0042-trapping-rain-water](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -215,6 +216,7 @@
 | [0504-base-7](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0504-base-7) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1021-remove-outermost-parentheses) |
 | [1436-destination-city](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1436-destination-city) |
 | [1678-goal-parser-interpretation](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1678-goal-parser-interpretation) |
 | [1763-longest-nice-substring](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1763-longest-nice-substring) |
@@ -375,4 +377,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
