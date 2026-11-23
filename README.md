@@ -131,6 +131,7 @@
 | [0682-baseball-game](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1021-remove-outermost-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -223,6 +224,7 @@
 | [1678-goal-parser-interpretation](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1678-goal-parser-interpretation) |
 | [1763-longest-nice-substring](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2390-removing-stars-from-a-string](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/2390-removing-stars-from-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Binary Search
 |  |
@@ -321,6 +323,7 @@
 | [0844-backspace-string-compare](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1929-concatenation-of-array) |
+| [2390-removing-stars-from-a-string](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/2390-removing-stars-from-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
