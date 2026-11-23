@@ -63,6 +63,7 @@
 | [0575-distribute-candies](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0724-find-pivot-index) |
 | [0896-monotonic-array](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0896-monotonic-array) |
@@ -127,6 +128,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
@@ -315,6 +317,7 @@
 | ------- |
 | [0289-game-of-life](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0289-game-of-life) |
 | [0495-teemo-attacking](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0495-teemo-attacking) |
+| [0682-baseball-game](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/raisaumyam26-tech/LeetCode-Solved/tree/master/1929-concatenation-of-array) |
